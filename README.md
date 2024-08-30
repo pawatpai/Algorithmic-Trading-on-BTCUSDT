@@ -50,7 +50,7 @@ This project implements various algorithmic trading strategies using Python. The
 
 2. **Clone this repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/pawatpai/Algorithmic-Trading-on-BTCUSDT)
    ```
 
 3. **Run the Jupyter notebooks**:
