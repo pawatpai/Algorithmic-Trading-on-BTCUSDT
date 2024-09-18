@@ -70,6 +70,7 @@ This project implements various algorithmic trading strategies using Python. The
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
+[titlesirapitch](https://github.com/titlesirapitch)
 
 ## Contact
 
